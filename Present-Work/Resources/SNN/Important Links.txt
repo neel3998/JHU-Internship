@@ -1,0 +1,2 @@
+https://neuronaldynamics.epfl.ch/index.html - Online Book
+https://github.com/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP 

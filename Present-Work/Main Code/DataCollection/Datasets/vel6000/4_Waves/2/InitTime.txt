@@ -1,0 +1,23 @@
+start iter? press ENTER1
+Initialisation time:  0.2026679515838623
+
+start iter? press ENTER2
+Initialisation time:  0.15465235710144043
+
+start iter? press ENTER3
+Initialisation time:  0.1562352180480957
+
+start iter? press ENTER4
+Initialisation time:  0.19443297386169434
+
+start iter? press ENTER5
+Initialisation time:  0.2570328712463379
+
+start iter? press ENTER6
+Initialisation time:  0.15684795379638672
+
+start iter? press ENTER7
+Initialisation time:  0.1714465618133545
+
+start iter? press ENTER8
+Initialisation time:  0.17742705345153809

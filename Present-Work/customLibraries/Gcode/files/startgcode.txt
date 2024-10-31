@@ -1,0 +1,21 @@
+M109 S40 ;Uncomment to add your own temperature line
+G21        ;metric values
+G90        ;absolute positioning
+M82        ;set extruder to absolute mode
+M107       ;start with the fan off
+G28 X0 Y0  ;move X/Y to min endstops
+G28 Z0     ;move Z to min endstops
+G1 Z15.0 F3600 ;move the platform down 15mm
+G92 E0                  ;zero the extruded length
+G1 F200 E3              ;extrude 3mm of feed stock
+G92 E0                  ;zero the extruded length again
+G1 F3600
+;Put printing message on LCD screen
+M117 Printing...
+
+;Layer count: 578
+
+M107
+G0 F3600 X83.288 Y86.266 Z0.200
+;TYPE:SKIRT
+G1 F1200 X85.122 Y84.701 E0

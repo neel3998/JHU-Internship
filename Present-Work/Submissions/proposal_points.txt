@@ -1,0 +1,37 @@
+**Timeline**:
+Week 1 (17th May -23rd May)
+1. Finger mount and printing texture
+2. Procure materials and fabrication of Finger
+3. STM 32 understanding
+
+Week 2(24th May - 30th May)
+1. STM 32 understanding and circuit design
+2. Data collection
+3. Classification using Sri's code
+
+Week 3(31st May - 6th June)
+1. Modifying the code.
+2. Using SNNs
+3. Start studying Haptics.
+
+Week 4(7th June - 13th June)
+1. Changing environments of the texture.
+2. printing custom texture.
+3. Converting SNN to spatial map
+
+Week 5(14th june - 20th June)
+1. Converting SNN to spatial map.
+2. implementing simple haptic codes
+
+Week 6(21st June - 27th June)
+1. Make haptics circuit
+2. Start converting neuromorphic encodings to haptics
+
+Week 7(28th June - 4th July)
+Buffer Period
+
+Week 8,9,10 (5th July - 31st July)
+Buffer & documentation
+
+https://docs.google.com/document/d/1CjiBWGnbpds2w4ZDjqJ7UT2BtJcBFSMLinkBDhTAvsM/edit?ts=60a10434
+

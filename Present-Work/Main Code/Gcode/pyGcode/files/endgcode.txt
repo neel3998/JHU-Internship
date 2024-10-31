@@ -1,0 +1,14 @@
+M107
+G1 F3600 E0
+G0 X108.208 Y107.955 Z79.786
+;End GCode
+M104 S0                     ;extruder heater off
+M140 S0                     ;heated bed heater off (if you have it)
+G91                                    ;relative positioning
+G1 E-1 F300                            ;retract the filament a bit before lifting the nozzle, to release some of the pressure
+G1 Z+0.5 E-5 X-20 Y-20 F3600 ;move Z up a bit and retract filament even more
+G28 X0 Y0                              ;move X/Y to min endstops, so the head is out of the way
+M84                         ;steppers off
+G90                         ;absolute positioning
+M81
+;CURA_PROFILE_STRING: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

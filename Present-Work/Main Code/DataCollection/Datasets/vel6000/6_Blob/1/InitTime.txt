@@ -1,0 +1,30 @@
+
+start iter? press ENTER1
+Initialisation time:  0.1570148468017578
+
+start iter? press ENTER2
+Initialisation time:  0.28484511375427246
+
+start iter? press ENTER3
+Initialisation time:  0.15665602684020996
+
+start iter? press ENTER4
+Initialisation time:  0.15994548797607422
+
+start iter? press ENTER5
+Initialisation time:  0.167313814163208
+
+start iter? press ENTER6
+Initialisation time:  0.2667663097381592
+
+start iter? press ENTER7
+Initialisation time:  0.20098137855529785
+
+start iter? press ENTER8
+Traceback (most recent call last):
+  File "C:\Sem 6\JHU\JHU-Intern\Present-Work\Main Code\DataCollection\JHU-dataCollect\GC_serial_fb.py", line 15, in <module>
+    r = ser.readline().decode('ascii')
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xb0 in position 24: ordinal not in range(128)
+
+start iter? press ENTER8
+Initialisation time:  0.1929171085357666

@@ -1,0 +1,24 @@
+start iter? press ENTER1
+Initialisation time:  0.16559624671936035
+
+start iter? press ENTER2
+Initialisation time:  0.1515960693359375
+
+start iter? press ENTER3
+Initialisation time:  0.19434642791748047
+
+start iter? press ENTER4
+Initialisation time:  0.19468283653259277
+
+C:\Sem 6\JHU\JHU-Intern\Present-Work\Main Code\DataCollection\JHU-dataCollect>python GC_serial_fb.py 
+start iter? press ENTER5
+Initialisation time:  0.17388319969177246
+
+start iter? press ENTER6
+Initialisation time:  0.1573340892791748
+
+start iter? press ENTER7
+Initialisation time:  0.18821430206298828
+
+start iter? press ENTER8
+Initialisation time:  0.18500638008117676
